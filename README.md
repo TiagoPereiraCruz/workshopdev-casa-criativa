@@ -19,8 +19,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [SQLite] (https://www.sqlite.org/index.html)
-- [Express] (https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Express](https://expressjs.com/pt-br/)
 - HTML
 - CSS
 
