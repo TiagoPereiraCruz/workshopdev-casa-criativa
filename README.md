@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/logo.svg" width="200px" />
+    <img alt="WorkshopCasaCriativa" title="#CasaCriativa" src=".github/logo.svg" width="400px" />
 </h1>
 
 <h4 align="center">
